@@ -1,0 +1,28 @@
+﻿[ЗУП]
+Connect=File="\\edu1c\Base1C\8_1\Эврика_HRM";
+ID=77067afb-5b78-409e-9744-ac3b0508804d
+OrderInList=16384
+Folder=/
+OrderInTree=16384
+External=0
+[Бухгалтерия]
+Connect=File="\\edu1c\Base1C\8_1\Accounting";
+ID=a3b72eda-0c48-45ce-8c78-c693ae57f940
+OrderInList=32768
+Folder=/
+OrderInTree=32768
+External=0
+[Зарплата и Управление Персоналом (демо)]
+Connect=File="\\edu1c\Base1C\8_1\DemoHRM";
+ID=42931286-7c6d-49f7-90ad-c5af056886d3
+OrderInList=49152
+Folder=/
+OrderInTree=49152
+External=0
+[Управление торговлей]
+Connect=File="\\edu1c\Base1C\8_1\Trade";
+ID=ad5db4e3-2700-4c8e-9b56-0da1353f30e1
+OrderInList=40960
+Folder=/
+OrderInTree=65536
+External=0
